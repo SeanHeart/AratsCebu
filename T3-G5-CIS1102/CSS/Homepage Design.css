@@ -1,0 +1,182 @@
+header{
+	display: block;
+	background-color:#a37958;
+	border: solid #4B2D0B;
+	border-width: 3px 2px 0px 2px;
+	}
+
+
+ul{
+	List-style-type: none;
+	margin: 0;
+	padding: 0;
+	Overflow: hidden;
+	border: solid #4B2D0B;
+	border-width: 2px 2px 2px 2px;
+	font-family: Helvetica;
+	
+	}	
+
+nav {
+   margin: 0;
+   padding: 0;
+   background: none;
+   font-family: Helvetica;
+   border: -1px solid #4B2D0B;
+   }
+
+
+.navbar ul {
+    list-style: none;
+    background: #ffde59;
+    padding: 0;
+    margin: 0;
+    text-align: center;
+    }
+
+.navbar li {
+   display: inline-block;
+   }
+
+.navbar a {
+   text-decoration: none;
+   color: black;
+   width: 140px;
+   display: block;
+   padding: 10px 10px;
+   font-size: 15px;
+   text-transformation: uppercase;
+   font-weight: bold;
+   text-align: center;
+   }
+
+.navbar a:hover {
+   background: #BEBEBE;
+   }
+
+
+li{
+	text-align: center;
+	float: center;
+}
+a.navB:link, a.navB:visited{
+	display:block;
+	text-decoration: none;
+	color: black;
+	border-radius: 10px;
+	}
+a.navB:hover, a.navA:active{
+	background-color: #a37958;
+	}
+
+img.Banner{
+	display: block;
+	margin: 0 auto 0 auto;
+	width: 800px;
+	height: 200px;
+	border-radius: 8px;
+	border: solid brown;
+	border-width: 2px 2px 2px 2px;
+	padding-left: 100px;
+	padding-right: 100px;
+	background-color: #964B00;
+	}
+img.Header{
+	display: block;
+	margin: 0 auto 0 auto;
+	}
+
+img.Map{
+	width: 350px;
+	height: 350px;
+	}
+img.footer{
+	width: 50px;
+	height: 40px;
+	}
+p.A{
+	text-align: justify;
+	font-size: 25px;
+	text-indent: 60px;
+	font-family: Helvitica, sans-serif;
+	line-height: 1.4;
+	padding-left: 15px;
+	}
+
+div.culture{
+	background-image: url("../Images/Culture.jpg");
+	background-size: contain;
+	background-repeat: no-repeat;
+	width: 600px;
+	height: 330px;
+	float: left;
+	border: solid brown;
+	border-width: 2px 2px 2px 2px;
+	}
+div.tourist{
+	background-image: url("../Images/Tourist.jpg");
+	background-size: contain;
+	background-repeat: repeat;
+	width: 600px;
+	height: 330px;
+	float: right;
+	border: solid brown;
+	border-width: 2px 2px 2px 2px;
+	}
+div.food{
+	background-image: url("../Images/Food.jpg");
+	background-size: contain;
+	background-repeat: repeat;
+	width: 600px;
+	height: 330px;
+	float: left;
+	border: solid brown;
+	border-width: 2px 2px 2px 2px;
+	}
+div.travel{
+	background-image: url("../Images/Travel.jpg");
+	background-size: contain;
+	background-repeat: repeat;
+	width: 600px;
+	height: 330px;
+	float: right;
+	border: solid brown;
+	border-width: 2px 2px 2px 2px;
+	}
+div.B{
+	width: 250px;
+	height: 250px;
+	padding-left: 180px;
+	padding-right: 180px;
+
+	}
+div.C{
+	float: left;
+	}
+div.D{
+	float: right;
+	}
+h1{
+	text-align: center;
+	font-family: 'Alfa Slab One', cursive;
+	color: white;
+	font-size: 50px;
+	letter-spacing: 10px;
+	text-shadow: 4px 4px black;
+	}
+h2{
+	background-color: #eba850;
+	border: solid #a37958 3px;
+	border-radius: 10px;
+	text-align: center;
+	font-size: 30px;
+	font-family: 'Arimo', sans-serif;
+	letter-spacing: 5px;
+	}
+footer{
+	width: 100%;
+	height: 40px;
+	background-color: #a37958;
+	border: solid #4B2D0B;
+	border-width: 2px 2px 3px 2px;
+	}

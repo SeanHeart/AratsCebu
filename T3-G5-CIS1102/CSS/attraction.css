@@ -1,0 +1,332 @@
+html {
+  box-sizing: border-box;
+  font-size: 62.5%;
+  scroll-behavior: smooth;
+}
+
+header {
+   display: block;
+   background-color: #a37958;
+   border: 1px solid #4B2D0B;
+   border-width: 2px 2px 0px 2px;
+   text-align: center;
+   }
+
+
+
+
+
+
+ ul{
+	List-style-type: none;
+	margin: 0;
+	padding: 0;
+	Overflow: hidden;
+	border: solid #4B2D0B;
+	border-width: 2px 2px 2px 2px;
+	font-family: Helvetica;
+	
+	}	
+
+nav {
+   margin: 0;
+   padding: 0;
+   background: none;
+   font-family: Helvetica;
+   border: -1px solid #4B2D0B;
+   }
+
+
+.navbar ul {
+    list-style: none;
+    background: #ffde59;
+    padding: 0;
+    margin: 0;
+    text-align: center;
+    }
+
+.navbar li {
+   display: inline-block;
+   }
+
+.navbar a {
+   text-decoration: none;
+   color: black;
+   width: 150px;
+   display: block;
+   padding: 10px 10px;
+   font-size: 15px;
+   text-transformation: uppercase;
+   font-weight: bold;
+   text-align: center;
+   }
+
+.navbar a:hover {
+   background: #BEBEBE;
+   }
+
+body {
+  font-family: "Arimo";
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  margin: auto;
+  width: 80%;
+  background-image: url("https://maekku.github.io/host-assets/Oslob.jpg");
+  background-repeat: no-repeat;
+  background-position: top 65% right 0%;
+  background-size: 100%;
+  border-radius: 50px 50px;
+}
+
+.container2 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  margin: auto;
+  width: 80%;
+  background-image: url("https://maekku.github.io/host-assets/Malapascua.jpg");
+  background-repeat: no-repeat;
+  background-position: top 65% right 0%;
+  background-size: 100%;
+  border-radius: 50px;
+}
+
+.container3 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  margin: auto;
+  width: 80%;
+  background-image: url("https://maekku.github.io/host-assets/Kawasan Falls.jpg");
+  background-repeat: no-repeat;
+  background-position: top 65% right 0%;
+  background-size: 100%;
+  border-radius: 0px 0px 50px 50px;
+  border-radius: 50px;
+}
+
+.container4 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  margin: auto;
+  width: 80%;
+  background-image: url("https://maekku.github.io/host-assets/Simala.jpg");
+  background-repeat: no-repeat;
+  background-position: top 65% right 0%;
+  background-size: 100%;
+  border-radius: 50px;
+}
+
+.container5 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  margin: auto;
+  width: 80%;
+  background-image: url("https://maekku.github.io/host-assets/Pescador Island.jpg");
+  background-repeat: no-repeat;
+  background-position: top 65% right 0%;
+  background-size: 100%;
+  border-radius: 50px;
+}
+
+.container6 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  margin: auto;
+  width: 80%;
+  background-image: url("https://maekku.github.io/host-assets/Sirao.jpg");
+  background-repeat: no-repeat;
+  background-position: top 95% right 0%;
+  background-size: 100%;
+  border-radius: 50px;
+}
+
+.container7 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  margin: auto;
+  width: 80%;
+  background-image: url("https://maekku.github.io/host-assets/Temple of.jpg");
+  background-repeat: no-repeat;
+  background-position: top 45% right 0%;
+  background-size: 100%;
+  border-radius: 50px;
+}
+
+.container8 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  margin: auto;
+  width: 80%;
+  background-image: url("https://maekku.github.io/host-assets/Fort San Pedro.jpg");
+  background-repeat: no-repeat;
+  background-position: top 55% right 0%;
+  background-size: 100%;
+  border-radius: 50px;
+}
+
+.container9 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  margin: auto;
+  width: 80%;
+  background-image: url("https://maekku.github.io/host-assets/Taoist TEmple.jpg");
+  background-repeat: no-repeat;
+  background-position: top 65% right 0%;
+  background-size: 100%;
+  border-radius: 50px;
+}
+
+.container10 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  margin: auto;
+  width: 80%;
+  background-image: url("https://maekku.github.io/host-assets/Rosetta.jpg");
+  background-repeat: no-repeat;
+  background-position: top 85% right 0%;
+  background-size: 100%;
+  border-radius: 50px;
+}
+
+h1 {
+  margin: 20px;
+  font-family: "Arimo", sans-serif;
+  font-size: 100px;
+  color: white;
+  text-shadow: 4px 4px black;
+}
+
+h2 {
+  margin: 30px;
+  font-family: "Arimo", sans-serif;
+  font-size: 70px;
+  color: white;
+  text-shadow: 4px 4px black;
+}
+
+h3 {
+  margin: 30px;
+  font-family: "Arimo", sans-serif;
+  font-size: 80px;
+  color: white;
+  text-shadow: 4px 4px black;
+}
+
+h4 {
+  margin: 30px;
+  font-family: "Arimo", sans-serif;
+  font-size: 70px;
+  color: white;
+  text-shadow: 4px 4px black;
+}
+
+h5 {
+  margin: 20px;
+  font-family: "Arimo", sans-serif;
+  font-size: 100px;
+  color: white;
+  text-shadow: 4px 4px black;
+}
+
+.text {
+  white-space: nowrap;
+  color: black;
+  font-size: 20px;
+  position: absolute;
+  overflow: hidden;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+}
+
+p2 {
+  line-height: 1.2;
+  background-color: white;
+  font-family: "Arimo", sans-serif;
+  font-size: 1.8rem;
+  padding: 5px;
+  border-radius: 0px 0px 50px 50px;
+  opacity: 0.9;
+}
+
+p {
+  line-height: 0.5px;
+  background-color: #ffde59;
+  font-family: "Arimo", sans-serif;
+  font-size: 0.5px;
+  border-radius: 0px 0px 50px 50px;
+}
+
+body {
+  height: 2700px;
+  background: linear-gradient(35deg, #a37958 20%, #d2c29d 51%, #ffde59 85%);
+}
+
+div.C{
+	float: left;
+	}
+div.D{
+	float: right;
+	}
+
+footer{
+
+	width: 100%;
+	height: 40px;
+	background-color: #a37958;
+	border: solid #4B2D0B;
+	border-width: 2px 0px 2px 0px;
+	}
+
+.arats {
+   width: 50px;
+   height: 40px;
+   }
+
+.gmail {
+   width: 50px;
+   height: 40px;
+   }
+
+.insta {
+   width: 50px;
+   height: 40px
+   }
+
+.fb {
+   width: 50px;
+   height: 40px
+   }
